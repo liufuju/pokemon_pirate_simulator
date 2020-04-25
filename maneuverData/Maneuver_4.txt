@@ -1,0 +1,1 @@
+{"No": 4, "name": "Meteor Punch", "name_C": "\u5f57\u661f\u62f3", "type": "Metal", "type_C": "\u94a2", "category": "physical", "ppMax": 10, "power": 90, "accuracy": 90, "priority": 0}

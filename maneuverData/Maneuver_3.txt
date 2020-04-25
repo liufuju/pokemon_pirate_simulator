@@ -1,0 +1,1 @@
+{"No": 3, "name": "Earthquake", "name_C": "\u5730\u9707", "type": "Ground", "type_C": "\u5730", "category": "physical", "ppMax": 10, "power": 100, "accuracy": 100, "priority": 0}

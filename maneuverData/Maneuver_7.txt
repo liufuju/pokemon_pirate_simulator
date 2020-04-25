@@ -1,0 +1,1 @@
+{"No": 7, "name": "Waterfall", "name_C": "\u6500\u7011", "type": "Water", "type_C": "\u6c34", "category": "physical", "ppMax": 15, "power": 80, "accuracy": 100, "priority": 0}

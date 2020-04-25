@@ -1,0 +1,1 @@
+{"No": 1, "name": "Thunder Punch", "name_C": "\u96f7\u7535\u62f3", "type": "Electric", "type_C": "\u7535", "category": "physical", "ppMax": 15, "power": 75, "accuracy": 100, "priority": 0}

@@ -1,0 +1,1 @@
+{"No": 2, "name": "Bullet Punch", "name_C": "\u5b50\u5f39\u62f3", "type": "Metal", "type_C": "\u94a2", "category": "physical", "ppMax": 30, "power": 40, "accuracy": 100, "priority": 1}

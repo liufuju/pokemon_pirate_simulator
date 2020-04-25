@@ -1,0 +1,1 @@
+{"No": 6, "name": "Ice Fang", "name_C": "\u51b0\u4e4b\u7259", "type": "Ice", "type_C": "\u51b0", "category": "physical", "ppMax": 15, "power": 65, "accuracy": 95, "priority": 0}

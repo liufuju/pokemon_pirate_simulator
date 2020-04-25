@@ -1,0 +1,1 @@
+{"No": 5, "name": "Crunch", "name_C": "\u54ac\u788e", "type": "Dark", "type_C": "\u6076", "category": "physical", "ppMax": 15, "power": 80, "accuracy": 100, "priority": 0}
